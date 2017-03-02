@@ -7,4 +7,10 @@
     <dimen name="text_size_donthaveaccount">16sp</dimen>
     <dimen name="edittext_margin_createaccount">10dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="height_cardView">200dp</dimen>
+    <dimen name="corner_radius_cardView">4dp</dimen>
+    <dimen name="textSize_username_card">25dp</dimen>
+    <dimen name="first_word_textsize">15sp</dimen>
+    <dimen name="timecard_left_margin_card">5dp</dimen>
+    <dimen name="like_margintop_card">10dp</dimen>
 </resources>
