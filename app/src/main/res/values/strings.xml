@@ -5,4 +5,11 @@
     <string name="text_btn_login">Login</string>
     <string name="dont_have_account">¿Have an account? , </string>
     <string name="create_account_here">Create one here</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_user">User</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="text_btn_createaccount">Join us</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="toolbar_title_create_account">Create account</string>
 </resources>
