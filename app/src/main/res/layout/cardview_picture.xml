@@ -2,7 +2,7 @@
 <android.support.v7.widget.CardView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:cardView="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/pictureCard"
+    android:id="@+id/Card"
     android:layout_width="match_parent"
     android:layout_height="@dimen/height_cardView"
     cardView:cardCornerRadius="@dimen/corner_radius_cardView">
@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <ImageView
-            android:id="@+id/imageView_card"
+            android:id="@+id/pictureCard"
             android:layout_width="match_parent"
             android:layout_height="@dimen/height_cardView"
             android:background="@drawable/sanfrancisco"
@@ -64,7 +64,7 @@
                     android:layout_height="wrap_content"
                     android:button="@drawable/checkbox_selector"/>
                 <TextView
-                    android:id="@+id/line_number_card"
+                    android:id="@+id/likeNumberCard"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/likenumber_card"
